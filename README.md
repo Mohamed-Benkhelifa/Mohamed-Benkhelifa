@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed-Benkhelifa
 - 👀 I’m interested in becoming a software engineer after graduation
-- 🖥 I’m currently learning computer science at GSU
+- 🖥 I’m currently learning computer science at Georgia State University
 - 🤝 I’m looking to collaborate on many projects to futher my knowledge of coding
 - 📫 How to reach me - email: mohamedsaja60@gmail.com
 
